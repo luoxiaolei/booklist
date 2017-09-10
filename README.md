@@ -9,18 +9,18 @@
 - 编程珠玑(第2版·修订版) 乔恩·本特利 (Jon Bentley)
 - 鸟哥的Linux私房菜:基础学习篇(第3版) 王世江
 - 点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）[美] 克鲁格（Steve Krug） 著；蒋芳 译
-- 程序员的呐喊 [美] Steve，Yegge 著；徐旭铭 译![](https://img.shields.io/badge/progress-finish-green.svg)
+- 程序员的呐喊 [美] Steve，Yegge 著；徐旭铭 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - Java特种兵（上册） 谢宇 著
 ## 文学
-- 白说 白岩松 著![](https://img.shields.io/badge/progress-finish-green.svg)
+- 白说 白岩松 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 菜根谭 洪应明 著
-- 我的职业是小说家 [日] 村上春树 著；施小炜 译![](https://img.shields.io/badge/progress-finish-green.svg)
+- 我的职业是小说家 [日] 村上春树 著；施小炜 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 思维训练
-- 暗时间 刘未鹏 著![](https://img.shields.io/badge/progress-finish-green.svg)
+- 暗时间 刘未鹏 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 决策与判断 [美] 斯科特·普劳斯（ScottPlous） 
-- 把时间当作朋友 李笑来 著![](https://img.shields.io/badge/progress-finish-green.svg)
-- 如何把事情做到最好 [美] 乔治·伦纳德 著；张乐 译；张亚荣 校![](https://img.shields.io/badge/progress-finish-green.svg)
-- 高效能人士的七个习惯 [美] 史蒂芬·柯维 著![](https://img.shields.io/badge/progress-finish-green.svg)
+- 把时间当作朋友 李笑来 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 如何把事情做到最好 [美] 乔治·伦纳德 著；张乐 译；张亚荣 校 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 高效能人士的七个习惯 [美] 史蒂芬·柯维 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 工具书
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
@@ -37,5 +37,5 @@
 - 浪潮之巅 第三版 套装上下册 吴军 著
 - 数学之美（第二版）吴军 著
 ## 考试
-- 系统集成项目管理工程师教程 柳纯录 著![](https://img.shields.io/badge/progress-finish-green.svg)
+- 系统集成项目管理工程师教程 柳纯录 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 
