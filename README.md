@@ -11,6 +11,7 @@
 - 点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）[美] 克鲁格（Steve Krug） 著；蒋芳 译
 - 程序员的呐喊 [美] Steve，Yegge 著；徐旭铭 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - Java特种兵（上册） 谢宇 著
+- 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 文学
 - 白说 白岩松 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 菜根谭 洪应明 著
