@@ -22,6 +22,7 @@
 - 把时间当作朋友 李笑来 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 如何把事情做到最好 [美] 乔治·伦纳德 著；张乐 译；张亚荣 校 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 高效能人士的七个习惯 [美] 史蒂芬·柯维 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 跃迁 古典 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 工具书
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
