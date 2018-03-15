@@ -44,4 +44,6 @@
 - 系统集成项目管理工程师教程 柳纯录 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 沟通
 - 跟任何人都聊得来 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 蔡康永的说话之道 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 蔡康永的说话之道2
 
