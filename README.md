@@ -36,10 +36,10 @@
 - 中国简史 吕思勉 著
 - 南京大屠杀
 ## 互联网
-- 智能时代 吴军 著
+- 智能时代 吴军 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 浪潮之巅 第三版 套装上下册 吴军 著
-- 数学之美（第二版）吴军 著
-- 黑客与画家
+- 数学之美（第二版）吴军 著 
+- 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 考试
 - 系统集成项目管理工程师教程 柳纯录 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 沟通
