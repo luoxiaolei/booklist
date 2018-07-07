@@ -28,8 +28,9 @@
 - 英语写作手册:风格的要素 William Strunk 著
 - 所谓情商高，就是会说话 佐佐木圭一 著；程亮 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 好好说话：新鲜有趣的话术精进技巧 马薇薇，黄执中，周玄毅 等 著
+- 30天学会绘画 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 经济
-- 小岛经济学 彼得·D.希夫;安德鲁·J.希夫 著
+- 小岛经济学 彼得·D.希夫;安德鲁·J.希夫 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 历史
 - 世界简史 [英] 赫伯特·乔治·威尔斯 著；谢凯 译
 - 人类简史：从动物到上帝 [以色列]尤瓦尔·赫拉利 著
@@ -45,5 +46,5 @@
 ## 沟通
 - 跟任何人都聊得来 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 蔡康永的说话之道 ![](https://img.shields.io/badge/progress-finish-green.svg)
-- 蔡康永的说话之道2
+- 蔡康永的说话之道2 ![](https://img.shields.io/badge/progress-finish-green.svg)
 
