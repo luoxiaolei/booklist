@@ -23,11 +23,11 @@
 - 如何把事情做到最好 [美] 乔治·伦纳德 著；张乐 译；张亚荣 校 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 高效能人士的七个习惯 [美] 史蒂芬·柯维 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 跃迁 古典 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 单核工作法图解
 ## 工具书
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
 - 所谓情商高，就是会说话 佐佐木圭一 著；程亮 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
-- 好好说话：新鲜有趣的话术精进技巧 马薇薇，黄执中，周玄毅 等 著
 - 30天学会绘画 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 经济
 - 小岛经济学 彼得·D.希夫;安德鲁·J.希夫 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
@@ -44,7 +44,10 @@
 ## 考试
 - 系统集成项目管理工程师教程 柳纯录 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 沟通
+- 好好说话：新鲜有趣的话术精进技巧 马薇薇，黄执中，周玄毅 等 著
 - 跟任何人都聊得来 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 蔡康永的说话之道 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 蔡康永的说话之道2 ![](https://img.shields.io/badge/progress-finish-green.svg)
+## 理财
+- 富爸爸穷爸爸
 
