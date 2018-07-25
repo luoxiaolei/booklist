@@ -1,7 +1,7 @@
 # 我的书单，记录我在读及读过的书
 ## 计算机
 - 编码：隐匿在计算机软硬件背后的语言 [美] Charles Petzold 著；左飞，薛佟佟 译
-- 重构 改善既有代码的设计 [美] 马丁·福勒（Martin Fowler） 著；熊节 译
+- 重构 改善既有代码的设计 [美] 马丁·福勒（Martin Fowler） 著；熊节 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 算法 第4版 Algorithms Fourth Edition [美] Robert Sedgewick，[美] Kevin Wayne 著；谢路云 译
 - TCP/IP详解卷1 协议 [美] W.Richard Stevens 著；范建华，胥光辉，张涛 等 译；谢希仁 校
 - 代码整洁之道 马丁 (Robert C. Martin)
@@ -11,7 +11,17 @@
 - 点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）[美] 克鲁格（Steve Krug） 著；蒋芳 译
 - 程序员的呐喊 [美] Steve，Yegge 著；徐旭铭 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - Java特种兵（上册） 谢宇 著
-- 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- HeadFirst Python(中文版)
+- Go程序设计语言
+- 深入理解Java虚拟机(第2版) 周志明 著
+- Vim实用技巧(第2版) 
+- Oracle查询优化改写
+- Effective Java(第2版) 英文版
+- Spring实战(第4版)
+- Java网络编程
+- 第一本Docker书(修订版)
+- ES6标准入门(第2版)
+- 全栈应用开发精益实践 黄峰达 著
 ## 文学
 - 白说 白岩松 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 菜根谭 洪应明 著
@@ -24,11 +34,14 @@
 - 高效能人士的七个习惯 [美] 史蒂芬·柯维 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 跃迁 古典 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 单核工作法图解
+- 格鲁夫给经理人的第一课
+- 极客与团队
 ## 工具书
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
-- 所谓情商高，就是会说话 佐佐木圭一 著；程亮 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 30天学会绘画 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- MacTalk人生元编程
+- 这样装修不后悔
 ## 经济
 - 小岛经济学 彼得·D.希夫;安德鲁·J.希夫 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 历史
@@ -48,6 +61,10 @@
 - 跟任何人都聊得来 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 蔡康永的说话之道 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 蔡康永的说话之道2 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 所谓情商高，就是会说话 佐佐木圭一 著；程亮 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 理财
 - 富爸爸穷爸爸
+## 心里学
+- 行为心理学
+- 你一定要懂的心里常识
 
