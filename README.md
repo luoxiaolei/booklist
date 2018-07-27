@@ -63,7 +63,7 @@
 - 蔡康永的说话之道2 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 所谓情商高，就是会说话 佐佐木圭一 著；程亮 译 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 理财
-- 富爸爸穷爸爸
+- 富爸爸穷爸爸 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 心理学
 - 行为心理学
 - 你一定要懂的心里常识
