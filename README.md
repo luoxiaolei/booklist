@@ -66,5 +66,5 @@
 - 富爸爸穷爸爸 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 心理学
 - 行为心理学
-- 你一定要懂的心里常识
+- 你一定要懂的心理常识
 
