@@ -36,12 +36,16 @@
 - 单核工作法图解 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 格鲁夫给经理人的第一课 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 极客与团队
+- 格局
+- 秘密
 ## 工具书
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
 - 30天学会绘画 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - MacTalk人生元编程
 - 这样装修不后悔
+- 拉伸
+- 中国最美的100个地方 图说天下 国家地理
 ## 经济
 - 小岛经济学 彼得·D.希夫;安德鲁·J.希夫 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 历史
@@ -54,6 +58,8 @@
 - 浪潮之巅 第三版 套装上下册 吴军 著
 - 数学之美（第二版）吴军 著 
 - 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
+## 小说
+-为了你，我愿意热爱整个世界![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 考试
 - 系统集成项目管理工程师教程 柳纯录 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 沟通
