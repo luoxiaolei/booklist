@@ -59,6 +59,7 @@
 - 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 浪潮之巅 第三版 套装上下册 吴军 著
 - 数学之美（第二版）吴军 著 
+- AI▪未来 李开复 著
 ## 小说
 - 为了你，我愿意热爱整个世界 ![](https://img.shields.io/badge/progress-finish-green.svg)
 ## 考试
@@ -74,4 +75,6 @@
 ## 心理学
 - 行为心理学
 - 你一定要懂的心理常识
+## 自传
+- 世界因你不同-李开复自传
 
