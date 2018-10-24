@@ -76,5 +76,5 @@
 - 行为心理学
 - 你一定要懂的心理常识
 ## 自传
-- 世界因你不同-李开复自传![](https://img.shields.io/badge/progress-finish-green.svg)
+- 世界因你不同-李开复自传 ![](https://img.shields.io/badge/progress-finish-green.svg)
 
