@@ -36,6 +36,7 @@
 - 格鲁夫给经理人的第一课 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 格局 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 技巧 郝培强 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 干法 稻盛和夫 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 决策与判断 [美] 斯科特·普劳斯（ScottPlous） 
 - 极客与团队
 - 秘密
