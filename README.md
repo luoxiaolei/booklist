@@ -60,6 +60,7 @@
 ## 互联网
 - 智能时代 吴军 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 黑客与画家 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 未来世界的幸存者 阮一峰 著 ![](https://img.shields.io/badge/progress-finish-green.svg)
 - 浪潮之巅 第三版 套装上下册 吴军 著
 - 数学之美（第二版）吴军 著 
 - AI▪未来 李开复 著
