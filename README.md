@@ -44,6 +44,7 @@
 - 秘密
 ## 工具书
 - 30天学会绘画 ![](https://img.shields.io/badge/progress-finish-green.svg)
+- 6个月学会任何一种外语 龙飞虎
 - 如何阅读一本书 [美]莫提默·J·艾德勒 查尔斯·范多伦, 郝明义, 朱衣
 - 英语写作手册:风格的要素 William Strunk 著
 - MacTalk人生元编程
